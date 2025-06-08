@@ -7,7 +7,9 @@
 [![Responsive Preview](https://img.shields.io/badge/Responsive-Yes-green)](https://product-preview77.netlify.app/)
 
 <div align="center">
-  <img src="./images/screenshot.png" alt="Article Listing Preview" width="600">
+  <a href="https://product-preview77.netlify.app/" target="_blank">
+    <img src="./images/screenshot.png" alt="Product Preview Card Demo" width="600">
+  </a>
 </div>
 
 
