@@ -1,10 +1,10 @@
 
 # Product Preview Card | Frontend Mentor
 
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Solution-blue)](https://www.frontendmentor.io/solutions/product-preview-card-with-responsive-image-switching-3JvQZ4X2T6)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Solution-blue)](https://www.frontendmentor.io/solutions/product-preview-card-X1rdJK7HG)
 
 
-[![Responsive Preview](https://img.shields.io/badge/Responsive-Yes-green)](https://your-live-demo-url.com)
+[![Responsive Preview](https://img.shields.io/badge/Responsive-Yes-green)](https://product-preview77.netlify.app/)
 
 <div align="center">
   <img src="./images/screenshot.png" alt="Article Listing Preview" width="600">
@@ -58,4 +58,4 @@ A responsive product card component featuring:
 
 ## Author
 [Krowey Richmond Borquaye](https://github.com/77Kromo)  
-[Live Demo](https://your-demo-url.com) | [Solution](https://www.frontendmentor.io/solutions/your-solution-id)
+[Live Demo](https://product-preview77.netlify.app/) | [Solution](https://www.frontendmentor.io/solutions/product-preview-card-X1rdJK7HG)
